@@ -1,3 +1,7 @@
 adsdjasldjasdvfbgdbgdbdbg
 thay cmn doi
+<<<<<<< HEAD
 thay doi cua hiep
+=======
+DM THAY DOI cua Chien
+>>>>>>> origin/master
