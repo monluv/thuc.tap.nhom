@@ -1,11 +1,12 @@
 adsdjasldjasdvfbgdbgdbdbg
 thay cmn doi
-<<<<<<< HEAD
 sua boi hiep
-=======
 Chien thay doi
->>>>>>> origin/hiep
+
 
 
 
 edit by hiep
+
+edit by chien
+ master
